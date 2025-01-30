@@ -1,0 +1,17 @@
+# Kalkulator BMI (Body Mass Index) - Mini Coding Project RevoU
+Aplikasi ini dikembangkan sebagai bagian dari tugas Mini Coding Project dari RevoU. Kalkulator BMI ini membantu menghitung indeks massa tubuh (BMI) berdasarkan berat dan tinggi badan, serta mengklasifikasikan kategori berat badan pengguna.
+
+## Tentang BMI
+Body Mass Index (BMI) adalah metode pengukuran sederhana yang digunakan untuk menilai apakah berat badan seseorang berada dalam kisaran sehat. Konsep ini pertama kali diperkenalkan oleh Adolphe Quetelet pada abad ke-19. Hasil perhitungan BMI dapat memberikan gambaran apakah seseorang memiliki berat badan kurang, normal, berlebih, atau obesitas. Selain itu, BMI juga dapat berfungsi sebagai indikator awal dalam menilai potensi risiko kesehatan yang berkaitan dengan berat badan. Menurut WHO, nilai BMI yang tidak ideal dapat meningkatkan risiko berbagai penyakit kronis.
+
+## Fitur
+1. Menghitung nilai Body Mass Index (BMI)
+2. Mengklasifikasikan kategori berat badan berdasarkan hasil perhitungan
+
+## Cara Penggunaan
+Masukkan berat badan (kg) dan tinggi badan (cm) ke dalam kalkulator.
+Tekan tombol "Hitung" untuk mendapatkan nilai BMI.
+Aplikasi akan menampilkan hasil perhitungan serta kategori berat badan yang sesuai.
+
+## Catatan
+Meskipun BMI dapat memberikan gambaran awal tentang status berat badan, metode ini memiliki keterbatasan karena tidak memperhitungkan faktor seperti massa otot, distribusi lemak, dan kondisi kesehatan lainnya. Untuk penilaian yang lebih akurat, disarankan berkonsultasi dengan tenaga medis atau ahli gizi.
